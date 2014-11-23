@@ -7,7 +7,7 @@ A tidy data set as described below
 A link to a Github repository with your script for performing the analysis, and
 A  code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This file explains how all of the scripts work and how they are connected.
 
-Project Details and Requirments
+Project Details and Requirements
 The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone.
 Here are the data for the project: 
 
@@ -44,3 +44,4 @@ Steps to Replicate the output
 1.Create a folder called Getting_Data in your local and set this as working directory using setwd()
 2. Save the run_analysis.R file  from the repository to Getting_Data folder
 3. Run source("run_analysis.R") and then execute run_analysis() and you will see tidy data set"DataSet_Avg.txt" in the Getting_Data folder.
+
